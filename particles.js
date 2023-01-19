@@ -35,7 +35,7 @@ const ParticleImageDisplayer = function(tag_id, canvas_el, params) {
     },
     image: {
       src: {
-        path: "https://cdn.jsdelivr.net/gh/ouidesign/umsol/lighthouse.png",
+        path: "https://cdn.jsdelivr.net/gh/ouidesign/umsol/grow.svg",
         is_external: true
       },
       size: {
